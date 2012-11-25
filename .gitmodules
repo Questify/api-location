@@ -1,0 +1,3 @@
+[submodule "views/crud"]
+	path = views/crud
+	url = git@github.com:Questify/crud.jade.git

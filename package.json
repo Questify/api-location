@@ -19,7 +19,8 @@
     "mocha": "*",
     "mongoose": "3.4.x",
     "node-dev": "*",
-    "should": "*"
+    "should": "*",
+    "underscore": "1.4.x"
   },
   "main": "api.coffee"
 }
